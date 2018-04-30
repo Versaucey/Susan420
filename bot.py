@@ -22,4 +22,4 @@ async def on_message(message):
     
         await client.send_message(message.channel,"pls beg")
 
-client.login(process.evn.BOT_TOKEN);
+client.run(process.evn.BOT_TOKEN);
