@@ -9,7 +9,7 @@
   "author": "not susan",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.py": "^11.3.2",
     "ms": "^2.1.1"
   }
 }
